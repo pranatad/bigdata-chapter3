@@ -20,7 +20,7 @@ BIG DATA - Chapter 3
 
 ## SystemCommandsOutput
 
-![Screenshot](image/SystemCommandsOuput.png)
+![Screenshot](image/SystemCommandsOutput.png)
 
 ## SystemCommandsReturnCode
 
