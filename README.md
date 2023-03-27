@@ -14,6 +14,9 @@ BIG DATA - Chapter 3
 
 ![Screenshot](image/Broadcast.png)
 
+## Kode 3
+![Screenshot](image/Kode3.png)
+
 ## PairRDD
 
 ![Screenshot](image/PairRDD.png)
