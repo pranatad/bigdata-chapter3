@@ -12,7 +12,8 @@ BIG DATA - Chapter 3
 
 **sc:** 
 
-      singkatan dari SparkContext, ini adalah objek utama dalam pemrograman dengan Apache Spark. Ini digunakan untuk menginisialisasi aplikasi Spark dan membuat RDD (Resilient Distributed Datasets) yang mendukung komputasi paralel.
+      singkatan dari SparkContext, ini adalah objek utama dalam pemrograman dengan Apache Spark. 
+      Ini digunakan untuk menginisialisasi aplikasi Spark dan membuat RDD (Resilient Distributed Datasets) yang mendukung komputasi paralel.
 
 accumulator: 
 
