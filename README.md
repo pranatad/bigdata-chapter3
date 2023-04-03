@@ -18,7 +18,7 @@ parallelize: method yang digunakan pada objek SparkContext untuk membuat RDD dar
 
 lambda: fungsi anonim yang sering digunakan dalam pemrograman fungsional dan pemrograman paralel. Biasanya digunakan untuk melakukan operasi yang sederhana dan terbatas pada sebuah data, sehingga sangat cocok untuk dijalankan di dalam RDD.
 
-value: tipe data dasar dalam Spark. Ini mewakili nilai tunggal dan dapat berupa tipe data apapun seperti integer, float, string, boolean, atau objek Python. Ini sering digunakan sebagai argument dalam method yang membutuhkan input data seperti map atau reduceByKey.
+value: nilai dalam spark
 
 ## Broadcast
 
