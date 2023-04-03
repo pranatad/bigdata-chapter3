@@ -29,7 +29,7 @@ fungsi anonim yang sering digunakan dalam pemrograman fungsional dan pemrograman
 
 ### value: 
 
-nilai dalam spark
+sebuah metode pada tipe data dictionary dalam bahasa pemrograman Python yang mengembalikan sebuah list yang berisi nilai (values) dalam dictionary tersebut.
 
 ## Broadcast
 
